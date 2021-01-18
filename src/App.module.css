@@ -1,0 +1,9 @@
+body{
+    background: #78a7fa;
+}
+.App {
+    display: flex;
+    justify-content: center;
+
+    margin-top: 10%;
+}
